@@ -48,7 +48,7 @@ class _MyAppState extends State<MyApp> {
                 Container(
                   height: 300,
                   width: 500,
-                  color: Colors.purpleAccent,
+                  color: Colors.red,
                 ),
                 Container(
                   height: 300,
