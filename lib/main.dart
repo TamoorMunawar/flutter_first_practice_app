@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
                 Container(
                   height: 300,
                   width: 500,
-                  color: Colors.redAccent,
+                  color: Colors.lightGreen,
                   child: const Text('this is tamoor'),
                 ),
                 Container(
